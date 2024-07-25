@@ -1,3 +1,6 @@
+## v1.2.2
+- Closing [#23](https://github.com/thatlonelybugbear/bugs/issues/23) - Silenced is targeting `flags.midi-qol.fail.spell.vocal` which in MidiQOL 11.4.44 is not being evaluated.
+
 ### v1.2.1.1
 - Hotfix, forgotten comma, thanks @gambit
 
